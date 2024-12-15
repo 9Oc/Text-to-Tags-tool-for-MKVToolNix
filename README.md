@@ -4,7 +4,7 @@ Converts tags in a .txt file into an MKVToolNix compatible XML format.
 Requires PowerShell.
 
 #### Instructions
-1. Create a .txt file in the directory of your choice
+1. Create a .txt file in the directory of your choice named "tags.txt" without quotes
 2. The .txt file format should be like this:<br>
    Tag1: value<br>
    Tag2: value<br>
